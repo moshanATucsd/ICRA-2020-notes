@@ -17,13 +17,13 @@ Contributions
 
 Details
 - Visual only MAP = BA  
-![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-1e642ed9.PNG)
+![](assets/test.png)
 - We fix the camera poses from previous step, then include inertial measurements, to estimate scale, gravity direction, biases, velocities
-![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-46ddcce0.PNG)
+![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-46ddcce0.png)
 - Use some initial values, then do LM
-![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-1dbec427.PNG)
+![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-1dbec427.png)
 
 Experiments
 - better initialization then VINS mono on EuRoC
 - Code will be available
-![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-f2b3fa8b.PNG)
+![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-f2b3fa8b.png)
