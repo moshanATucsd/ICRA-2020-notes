@@ -17,3 +17,7 @@ Details
 - Loss: photometric loss + smoothness loss + left-right loss + supervised loss 
 - We can add depth as prior to landmarks in the factor graph, however since we are using sliding window, this depth information can only be added to a short period of the trajectory, leading to numerical instability 
 - The paper uses a global Sim3 pose graph and a local VO, the local VO outputs an unscaled keyframe to the global Sim3 pose graph, and the Sim3 pose graph will add a scale to the keyframe. The scaled keyframe can correct the scale in the local VO  
+
+Experiments 
+- KITTI
+- Data from a handheld sensor compared with ORB SLAM  
