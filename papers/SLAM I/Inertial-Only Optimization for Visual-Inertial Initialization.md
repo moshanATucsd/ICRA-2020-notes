@@ -17,7 +17,7 @@ Contributions
 
 Details
 - Visual only MAP = BA  
-![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-1e642ed9.png)
+![img](assets/Inertial-Only Optimization for Visual-Inertial Initialization-1e642ed9.png)
 - We fix the camera poses from previous step, then include inertial measurements, to estimate scale, gravity direction, biases, velocities
 ![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-46ddcce0.png)
 - Use some initial values, then do LM
