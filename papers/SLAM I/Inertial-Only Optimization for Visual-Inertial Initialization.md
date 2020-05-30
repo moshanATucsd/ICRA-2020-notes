@@ -25,3 +25,5 @@ Details
 
 Experiments
 - better initialization then VINS mono on EuRoC
+- Code will be available
+![](assets/Inertial-Only Optimization for Visual-Inertial Initialization-f2b3fa8b.png)
