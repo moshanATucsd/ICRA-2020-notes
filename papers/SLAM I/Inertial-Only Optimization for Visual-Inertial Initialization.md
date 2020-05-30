@@ -19,6 +19,7 @@ Details
 - Visual only MAP = BA  
 ![](assets/test.png)
 - We fix the camera poses from previous step, then include inertial measurements, to estimate scale, gravity direction, biases, velocities
+
 ![](assets/46ddcce0.png)
 - Use some initial values, then do LM
 ![](assets/1dbec427.png)
