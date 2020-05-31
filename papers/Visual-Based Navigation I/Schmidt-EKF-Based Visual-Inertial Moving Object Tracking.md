@@ -17,3 +17,6 @@
 ![](assets/7069a654.png)
 - conclusion
 ![](assets/9c3185d0.png)
+- Q&A:
+![](assets/996e0bd3.png)
+![](assets/fc7ec4a8.png)

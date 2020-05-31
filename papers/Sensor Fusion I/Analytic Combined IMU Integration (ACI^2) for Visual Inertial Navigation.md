@@ -9,3 +9,4 @@
 ![](assets/a938ba4c.png)
 - summary
 ![](assets/d58fa720.png)
+- [supplementary material](http://udel.edu/~yuyang/downloads/suplementary_2020ICRA.pdf)
