@@ -11,4 +11,6 @@
 ![](assets/bcb0ddf2.png)
 - Jacobians
 ![](assets/c5b1f210.png)
+- Q&A
+![](assets/e4a82b2e.png)
  
